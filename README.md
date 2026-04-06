@@ -28,9 +28,8 @@ The goal is to transform raw data into meaningful insights using data analysis a
 
 ## Data Cleaning Steps
 
-* Handled missing values
+* Check for missing values
 * Converted data types (especially date columns)
-* Removed unnecessary columns
 * Ensured consistency in categorical data
 
 ---
